@@ -24,7 +24,7 @@
 
             <div class="container">
             <h2>MyMeets</h2><br>
-            <form action="chech2.php" method="post">
+            <form action="insert.php" method="post">
               <div class="form-group">
                 <label >Title of Meeting</label>
                 <input type="text" class="form-control" name="title" >
@@ -58,7 +58,7 @@
          
 
 <div>
-<form style="text-align:center" action="ingg.php" method="post">
+<form style="text-align:center" action="managemeet.php" method="post">
 <input type="submit" value="ManageMeet">
 </form>
                

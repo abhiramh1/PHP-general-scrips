@@ -32,7 +32,7 @@ $result1 = $conn->query($sql1);
 
 
 }}
-header('location:ingg.php');
+header('location:managemeet.php');
 ?>
 
 

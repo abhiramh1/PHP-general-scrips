@@ -17,6 +17,6 @@ $sql="DELETE FROM meetingplan WHERE title='{$_POST['name']}'";
 //echo $sql;
 $result = $conn->query($sql);
 if ($result) {
-header('location:ingg.php');
+header('location:managemeet.php');
 }
 ?>

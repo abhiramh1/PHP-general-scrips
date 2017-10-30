@@ -63,8 +63,7 @@ if ($result->num_rows > 0) {
 
 
 ?>
-<form style="text-align:center" action="edit.php" method="post">
-<input type="submit" value="submit"></form>
+
 
 </body>
 </html>
